@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function showTime() {
 
 
@@ -38,3 +39,13 @@ setTimeout(showTime , 1000)
 }
 
 showTime()
+=======
+function showTime (){
+
+    
+}
+
+var date = new Date
+
+document.write(date)
+>>>>>>> 1baa5f82928b25d0d79cbd02723dfa3410f19666
